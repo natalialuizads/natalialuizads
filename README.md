@@ -23,6 +23,9 @@
 <a href="https://angular.io" target="_blank">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
 </a>
+<a href="https://sass-lang.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
+</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=natalialuizas&count_private=true&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,stars" />
