@@ -27,9 +27,3 @@
   <img src="https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
 </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=natalialuizas&count_private=true&show_icons=true&theme=darcula&hide_border=true&bg_color=00000000&hide=issues,stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalialuizas&layout=compact&theme=darcula&hide_border=true&bg_color=00000000" />
-</p>
-
-
