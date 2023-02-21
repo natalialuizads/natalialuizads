@@ -26,4 +26,6 @@
 <a href="https://sass-lang.com/" target="_blank">
   <img src="https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
 </a>
-
+<a href="https://rxjs.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/RXJS-E34F26?style=for-the-badge&logo=RXJS&logoColor=white%22" alt="RXJS" />
+</a>
