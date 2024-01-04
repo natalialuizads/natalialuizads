@@ -29,3 +29,10 @@
 <a href="https://rxjs.dev/" target="_blank">
   <img src="https://img.shields.io/badge/RXJS-E34F26?style=for-the-badge&logo=RXJS&logoColor=white%22" alt="RXJS" />
 </a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+</a>
